@@ -6,7 +6,7 @@
 * I am constantly learning something new and working hard to maximize my own abilities
 
 ### Languages: 
-Advanced Level -  JavaScript, Java, Python, C#
+Advanced Level - JavaScript, C#, Python, Java, SQL
 
 ### Frameworks and Libraries: 
 React, NodeJS, MySQL, MongoDB, TailwindCSS, MaterialUI, Unity, Firebase, ChakraUI, AWS, Google Cloud, Flask, PyTorch
