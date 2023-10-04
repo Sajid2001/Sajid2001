@@ -2,7 +2,7 @@
 
 ## My name is Sajid Syed
 
-* I am an aspiring full-stack developer with knowledge of a wide variety of languages and frameworks.
+* I am a full-stack developer with a strong foundation in programming and knowledge of a wide variety of languages and frameworks.
 * I am constantly learning something new and working hard to maximize my own abilities
 
 ### Languages: 
