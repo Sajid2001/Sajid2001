@@ -7,7 +7,7 @@
 
 ### Skills: 
 #### Languages
-Advanced – JavaScript, TypeScript, C#, Python, Java, SQL , HTML, CSS
+JavaScript/TypeScript, C#, Python, Java, SQL , HTML/CSS
 #### Libraries/Frameworks
 React, Angular, NodeJS, Flask, MaterialUI, ChakraUI, PyTorch, Redux, Unity
 #### Cloud Services
