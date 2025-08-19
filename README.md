@@ -16,10 +16,3 @@ Microsoft Azure, Google Cloud, AWS
 Git, Docker, GraphQL, SASS, TailwindCSS, Azure DevOps, Vite, Figma
 #### Databases
 MongoDB, MySQL, Postgres, SQLite
-
-
-### Contacts
-- LinkedIn: https://www.linkedin.com/in/sajidsyed201/
-- Personal Site: Coming soon...
-
-
